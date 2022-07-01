@@ -25,7 +25,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <spark.version>2.3.0</spark.version>
         <spark.scala.version>2.11</spark.scala.version>
-        <hadoop.version>2.6.3</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
     </properties>
 
     <dependencies>
